@@ -50,5 +50,12 @@ Smart Evaluate is a Machine Learning-based concept designed to evaluate handwrit
 
 ---
 
+## 💡 My Contribution
+- Designed the system workflow for automated evaluation  
+- Worked on OCR-based text extraction approach  
+- Defined scoring logic and evaluation pipeline
+
+---
+
 ## 👨‍💻 Author
 Rishi Raj Singh Parmar
